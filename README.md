@@ -24,6 +24,10 @@ LSTM (Long Short-Term Memory)
 7. Evaluate predictions using MAE and RMSE.
 8. Plot actual versus predicted values.
 
+## Prediction Graph
+
+![Actual vs Predicted Traffic Congestion](prediction_graph.png)
+
 ## Results
 Mean Absolute Error (MAE): 4.9386
 Root Mean Squared Error (RMSE): 10.2489
